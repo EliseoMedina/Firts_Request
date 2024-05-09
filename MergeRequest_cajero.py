@@ -25,7 +25,7 @@ elif opcion == 2:
         saldo -= cantidad
         print(f"Usted ha retirado ${cantidad} \nAhora tiene ${saldo} en su cuenta")
     else:
-        print("Fondos insuficientes.")
+        print("Los fondos insuficientes.")
 
 elif opcion == 3:
     print(f"Usted tiene ${saldo} de saldo en su cuenta")
