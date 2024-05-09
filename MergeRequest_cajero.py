@@ -32,4 +32,4 @@ elif opcion == 3:
 elif opcion == 4:
     print("Usted salió de su cuenta")
 else:
-    print("Error al seleccionar opción, intente de nuevo por favor.")
+    print("Error al seleccionar esta opción, intente de nuevo por favor.")
